@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ToDoCheckListProject</string>
+    <string name="save_activity">Сохранить заметку</string>
+    <string name="write_your_activity">Что вы хотите сделать</string>
+    <string name="not_finished">Не выполнено</string>
+    <string name="finished">Выполнено</string>
+    <string name="done">Выполнено</string>
+    <string name="not_done">Не выполнено</string>
+</resources>
